@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "GlucoseMonitoringApp.Controllers.MeasurementsController",
+    "Method": "GetLatest",
+    "RelativePath": "api/Measurements/latest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

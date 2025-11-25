@@ -1,0 +1,6 @@
+@GlucoseMonitoringApp_HostAddress = http://localhost:5139
+
+GET {{GlucoseMonitoringApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
